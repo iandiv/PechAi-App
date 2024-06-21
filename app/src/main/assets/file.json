@@ -1,0 +1,72 @@
+[
+  {
+    "id": "91",
+    "classname": "Alternaria Leaf Spot",
+    "information": "Leaf spot develops most rapidly in June and July, and trees can be almost completely defoliated by early summer when the disease is severe.\r\n",
+    "information_ceb": "Ang lugar sa dahon labing paspas nga motubo sa Hunyo ug Hulyo, ug ang mga kahoy mahimong hapit hingpit nga madaot sa sayong bahin sa ting-init kung grabe ang sakit.)",
+    "causes": "Caused by several closely related species of fungi.",
+    "causes_ceb": "Tungod sa ubay-ubay nga related nga mga species sa fungi.",
+    "recommendation": "Alternaria requires fungicide to be sprayed directly on infected plants, as well as improvements in sanitation and crop rotation to prevent future outbreaks. \r\n\r\nThese are the following fungicide to apply:\r\n\u2022 Copper in the measurement of 7.5 grams per liters of water\r\n\u2022 Mancozeb in the measurement of 7.5 grams per liters of water.\r\n\r\nTo protect immunity, a different fungicide's active component should be sprayed once a week. The Difenoconazo 2.5 milliliters per 4 liters of water; this fungicide is systemic. \r\n",
+    "recommendation_ceb": "Ang Alternaria nanginahanglan ug fungicide nga direktang i-spray sa mga nataptan nga tanum, ingon man mga pagpaayo sa sanitasyon ug rotation sa tanum aron malikayan ang umaabot nga mga outbreak. \r\n\r\nKini ang mosunod nga fungicide nga magamit:\r\n\u2022 Copper sa measurement nga 7.5 gramos kada litro sa tubig \r\n\u2022 Mancozeb sa measurement nga 7.5 gramos kada litro sa tubig. \r\n\r\nAron mapanalipdan ang resistensya, ang duha ka lahi-lahi nga sangkap sa fungicide kinahanglan nga i-spray kausa sa usa ka semana. Ang Difenoconazo 2.5 mililitro kada 4 ka litro nga tubig; kini nga fungicide kay usa ka systemic."
+  },
+  {
+    "id": "92",
+    "classname": "Cabbage Moth",
+    "information": "Only the undersides of leaves are consumed by young larvae. Large, uneven holes in the leaves of various plants are chewed by older larvae. Their primary target is cabbage crops, such as kale, cauliflower, and broccoli.",
+    "information_ceb": "Ang ilawom nga bahin lamang sa mga dahon ang gikaon sa mga batan-ong ulod. Ang dagko, dili patas nga mga lungag sa mga dahon sa lainlaing mga tanum giusap sa mga tigulang nga ulod. Ang ilang panguna nga target mao ang mga tanum nga repolyo, sama sa kale, cauliflower, ug broccoli.",
+    "causes": "Cabbage Moth chew ragged holes in leaves and bore through and contaminate heads and leaves with their bodies and frass.",
+    "causes_ceb": "Ang mga Cabbage Moth naggisi sa mga buslot sa mga dahon, nga nagtusok niini sa ilang mga lawas ug frass, nga naka infection sa mga dahon ug ulo.",
+    "recommendation": "Apply insecticide on seedlings or small plants if numbers of medium-size to large loopers are large enough to stunt growth. Insecticide, such as Cartap, 4grams per 4 Liter of Water. \r\n\r\nSpray well-established plants only if you find an average of more than one-half larvae per plant. For cabbage looper control, the best time to apply insecticide is in the afternoon.",
+    "recommendation_ceb": "Ibutang ang insecticide sa mga seedling o gagmay nga mga tanum kung ang gidaghanon sa medium-size hangtod sa dagkong mga looper igo nga kadako aron mapugngan ang pagtubo. Insecticide sama sa Cartap ang pag butang niini 4 ka gramo per 4 liter sa tubig.\r\n\r\nPag-spray sa maayo nga natukod nga mga tanum kung makit-an nimo ang aberids nga labaw sa tunga nga ulod matag tanum. Alang sa pagkontrol sa cabbage looper, ang labing kaayo nga oras sa paggamit sa insecticide mao ang hapon."
+  },
+  {
+    "id": "93",
+    "classname": "Damping Off",
+    "information": "Refers to the rotting of stem and root tissues at and below the soil line. In most cases, infected plants will germinate and come up fine, but within a few days, they become water-soaked, mushy, collapse at the base and die.",
+    "information_ceb": "Nagtumong sa pagkadunot sa mga tisyu sa tukog ug gamut sa ug ubos sa linya sa yuta. Sa ubang panghitabo, ang mga nataptan nga tanum moturok ug maayo, apan sa sulod sa pipila ka mga adlaw, sila matumog sa tubig, mushy, mahugno sa base ug mamatay.",
+    "causes": "Caused by a number of seed- and soil-borne fungi and fungus like oomycetes",
+    "causes_ceb": "Tungod sa ubay-ubay nga liso ug dala sa yuta nga fungi ug fungus sama sa oomycetes",
+    "recommendation": "One of the most effective ways to beat damping off disease is with good old hydrogen peroxide. \r\n\r\n\u2022 Take a dropper with about 1mL of 3% strength hydrogen peroxide and drop it into the soil of each of the affected plants.",
+    "recommendation_ceb": "Usa sa labing epektibo nga paagi sa pagbuntog sa damping off nga sakit mao ang maayo nga daan nga hydrogen peroxide. \r\n\r\n\u2022 Pagkuha ug dropper nga adunay mga 1mL nga 3% strength nga hydrogen peroxide ug ihulog kini sa yuta sa matag usa sa mga apektadong tanum."
+  },
+  {
+    "id": "94",
+    "classname": "Diamondback Moth",
+    "information": "The diamondback moth (Plutella xylostella) is the most destructive insect pest of brassica crops across the world. Its host plants include: brassica vegetable and forage crops. cruciferous weeds.",
+    "information_ceb": "Ang diamondback moth (Plutella xylostella) mao ang labing makadaot nga peste sa insekto sa mga tanum nga brassica sa tibuuk kalibutan. Ang mga tanum nga host niini naglakip sa: brassica nga utanon ug mga tanum nga forage. cruciferous nga mga sagbot.",
+    "causes": "The first two stages are small and feed by mining the leaf; later, when they are larger, they burrow through the leaf. The result is 1-2 cm wide cavities on the lower leaf surface leaving the waxy layer intact, which gives the appearance of windows in heavily damaged plants",
+    "causes_ceb": "Ang unang duha ka stages kay gamay ra ug gipakaon pinaagi sa pagkuha sa dahon; sa ulahi, sa diha nga sila mas dako, sila molubong sa dahon. Ang resulta mao ang 1-2 cm ang gilapdon nga mga lungag sa ubos nga nawong sa dahon nga nagbilin sa waxy layer nga wala'y labot, nga naghatag sa dagway sa mga bintana sa mga tanum nga nadaot pag-ayo",
+    "recommendation": "Apply an insecticide such as Abemictin at a rate of 2.5ml\/L of water or Chlorfenayr at a rate of 4ml\/4L of water. Make sure each plant is covered properly by the spray.",
+    "recommendation_ceb": "Pagbutang ug insecticide sama sa Abemictin sa measurement nga 2.5ml\/L nga tubig o Chlorfenayr sa measurement nga 4ml\/4L nga tubig. Siguruha nga ang matag tanum natabonan sa husto sa spray.\r\n"
+  },
+  {
+    "id": "95",
+    "classname": "Downy Mildew",
+    "information": "A disease of the foliage, caused by a fungus-like (Oomycete) organism. It is spread from plant to plant by airborne spores. It is a disease of wet weather as infection is favored by prolonged leaf wetness.",
+    "information_ceb": "Usa ka sakit sa mga dahon, tungod sa usa ka fungus-like (Oomycete) nga organismo. Kini mikaylap gikan sa usa ka tanum ngadto sa usa ka tanum pinaagi sa airborne spores. Kini usa ka sakit sa basa nga panahon tungod kay ang impeksyon gipaboran sa dugay nga pagkabasa sa dahon.",
+    "causes": "Caused by microscopic, fungus-like (Oomycete) organisms. Despite a similar name and certain similarities in symptoms, they are unrelated to the powdery mildews.",
+    "causes_ceb": "Tungod sa mikroskopiko, sama sa fungus (Oomycete) nga mga organismo. Bisan pa sa susama nga ngalan ug pipila ka pagkaparehas sa mga sintomas, sila walay kalabutan sa powdery mildews.",
+    "recommendation": "\u2022 Avoid overcrowding seedlings so that there is sufficient air movement around them. \r\n\r\n\u2022 Carefully check each seedling before transplanting in the field, and remove any that show downy mildew symptoms. \r\n\r\n\u2022 If symptoms are seen, spray all the seedlings with a systemic fungicide (Difenoconazo 2.5 milliliters per 4 liters of water).",
+    "recommendation_ceb": "\u2022Likayi ang naghuot nga mga seedling aron adunay igong paglihok sa hangin sa ilang palibot. \r\n\r\n\u2022Pag-amping nga susihon ang matag seedling sa dili pa ibalhin sa uma, ug kuhaa ang bisan unsa nga nagpakita sa mga sintomas sa downy mildew. \r\n\r\n\u2022Kung makita ang mga simtomas, i-spray ang tanan nga mga seedling gamit ang systemic fungicide (Difenoconazo 2.5 mililitro kada 4 ka litro nga tubig)."
+  },
+  {
+    "id": "73",
+    "classname": "Healthy",
+    "information": "",
+    "information_ceb": "",
+    "causes": "",
+    "causes_ceb": "",
+    "recommendation": "",
+    "recommendation_ceb": ""
+  },
+  {
+    "id": "76",
+    "classname": "Invalid",
+    "information": "",
+    "information_ceb": "",
+    "causes": "",
+    "causes_ceb": "",
+    "recommendation": "",
+    "recommendation_ceb": ""
+  }
+]
